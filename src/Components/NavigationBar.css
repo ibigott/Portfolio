@@ -4,6 +4,7 @@
     flex-direction: row;
     justify-content: space-between;
     margin-right: 30px;
+    margin-bottom: 30px;
     box-sizing: border-box;
     font-size: smaller;
 }

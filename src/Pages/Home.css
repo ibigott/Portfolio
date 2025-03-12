@@ -19,3 +19,11 @@
     border: white solid 3px;
     border-radius: 15px;
 }
+
+.FeaturedProjects {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
